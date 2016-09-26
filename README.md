@@ -8,6 +8,6 @@ There are some web spiders writed by myself in this repository, just for backup 
 
 ## 协议 License
 
-DWF，做你想做的任何事情，和我无关。
+WTFPL，做你想做的任何事情，和我无关。
 
-DWF, do what the fuck you want, nothing to do with me.
+WTGPL, do what the fuck you want, nothing to do with me.
