@@ -10,4 +10,4 @@ There are some web spiders writed by myself in this repository, just for backup 
 
 WTFPL，做你想做的任何事情，和我无关。
 
-WTGPL, do what the fuck you want, nothing to do with me.
+WTFPL, do what the fuck you want, nothing to do with me.
